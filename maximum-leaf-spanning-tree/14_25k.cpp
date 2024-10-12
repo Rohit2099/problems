@@ -1,5 +1,4 @@
 #include <iostream>
-#include <bits/stdc++.h>
 #include <time.h>
 #include <algorithm>
 #include <vector>
